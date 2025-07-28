@@ -48,7 +48,7 @@ nvidia-smi
 ### Environment Setup
 ```bash
 # Clone repository
-git clone https://github.com/manishys12/neurourban.git
+git clone https://github.com/A200383/neurourban.git
 cd neurourban
 
 # Create virtual environment
@@ -336,7 +336,7 @@ python -c "import pstats; pstats.Stats('profile.stats').sort_stats('cumulative')
 
 - **Issues**: GitHub Issues
 - **Discussions**: GitHub Discussions
-- **Email**: 2303031241418@paruluniversity.ac.in
+- **Email**: 2203031240013@paruluniversity.ac.in
 
 ---
 
