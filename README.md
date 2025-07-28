@@ -782,8 +782,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 If you find NeuroUrban helpful for your research or projects, please consider:
 
-[![Star this repo](https://img.shields.io/badge/⭐%20Star%20this%20repo-GitHub-yellow?style=for-the-badge&logo=github)](https://github.com/manish12ys/Neuro-Urban)
-[![Follow on GitHub](https://img.shields.io/badge/👤%20Follow%20on%20GitHub-manish12ys-black?style=for-the-badge&logo=github)](https://github.com/A200383)
+[![Star this repo](https://img.shields.io/badge/⭐%20Star%20this%20repo-GitHub-yellow?style=for-the-badge&logo=github)](https://github.com/A200383/Neuro-Urban)
+[![Follow on GitHub](https://img.shields.io/badge/👤%20Follow%20on%20GitHub-A200383-black?style=for-the-badge&logo=github)](https://github.com/A200383)
 
 </div>
 
@@ -797,8 +797,8 @@ If you find NeuroUrban helpful for your research or projects, please consider:
 
 **NeuroUrban - Designing the cities of tomorrow using AI and data science**
 
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)](https://github.com/manish12ys/Neuro-Urban)
-[![For Sustainability](https://img.shields.io/badge/For-🌱%20Sustainability-green?style=flat-square)](https://github.com/manish12ys/Neuro-Urban)
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)](https://github.com/A200383/Neuro-Urban)
+[![For Sustainability](https://img.shields.io/badge/For-🌱%20Sustainability-green?style=flat-square)](https://github.com/A200383/Neuro-Urban)
 
 
 </div>
