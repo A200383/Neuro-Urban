@@ -1,0 +1,62 @@
+# Core ML/DL Libraries
+torch
+torchvision
+
+# GPU-accelerated ML Libraries (optional)
+cupy-cuda11x
+# cuml  # RAPIDS cuML - install via conda: conda install -c rapidsai cuml
+
+scikit-learn
+numpy
+pandas
+
+# Deep Learning & AI
+transformers
+huggingface-hub
+opencv-python
+Pillow
+
+# Geospatial & Mapping
+folium
+geopandas
+osmnx
+rasterio
+shapely
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+streamlit
+streamlit-folium
+
+# Web Scraping & APIs
+requests
+beautifulsoup4
+selenium
+aiohttp
+
+# Real-world Data APIs (Q2 2024 Enhancement)
+wbdata  # World Bank Open Data API
+overpy  # OpenStreetMap Overpass API
+openweathermap  # Weather and environmental data
+python-dotenv  # Environment variables for API keys
+
+# Simulation & RL
+gym
+stable-baselines3
+simpy
+
+# Utilities
+tqdm
+python-dotenv
+pyyaml
+click
+rich
+joblib
+
+# Development
+pytest
+black
+flake8
+jupyter
